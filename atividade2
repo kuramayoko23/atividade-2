@@ -1,0 +1,17 @@
+# -*- coding: latin1 -*-
+variavel1 = int(input("DIGITE O VALOR DE A: "))
+variavel2 = int(input("DIGITE O VALOR DE B: "))
+variavel3 = int(input("DIGITE O VALOR DE C: "))
+condição
+
+
+area = int(variavel1) * int(variavel2) / 2
+
+print("A AREA DO TRIANGULO E: ", area)
+
+
+print("O VALOR DE A É: ", variavel1)
+print("O VALOR DE B É: ", variavel2)
+print("O VALOR DE C É: ", variavel3)
+
+print("OS VALORES LIDOS NAO FORMAM UM TRIAGULO ")
